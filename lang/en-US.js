@@ -1,6 +1,6 @@
 export default {
   help: 'Help',
-  menu: 'Menu',
+  menu: 'MENU',
   registration: 'Registration',
   login: 'Login',
   'profile-edit': 'Edit profile',
